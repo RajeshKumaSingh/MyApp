@@ -1,0 +1,45 @@
+#dialog_login{
+	display: block;
+	width: 330px;
+	visibility: visible;
+	height: auto;
+	top: 114px;
+	left: 518px;
+	
+}
+
+#lightbox{
+	left: 55%;
+}
+
+#dailog_bar{
+	background: #f4f4f2;	
+	border-bottom: 1px solid #e4e4e2;
+	position: relative;
+	height: 40px;
+}
+
+#dialog_title{
+	float: left;
+	font-weight: bold;
+	padding: 10px;
+}
+
+#dialog_close{
+	color: #8d8d85;
+	float: right;
+	padding: 10px;
+}
+
+#login table{
+	width: 330px;
+	
+}
+
+#result{
+	background: #fcf8e3;
+	border: solid 1px #fbeed5;
+	color: #c09853;
+	font-size: 15px;
+	text-align: center;
+}
